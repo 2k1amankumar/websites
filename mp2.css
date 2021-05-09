@@ -1,0 +1,39 @@
+h1{
+    font-family: 'lobster','cursive';
+    text-align: center;
+    font-size: 60px;
+    margin: 0px;
+}
+header{
+    background-color: aquamarine;
+    padding: 40px;
+}
+nav{
+    background-color: rgb(172, 116, 224);
+    padding: 20px;
+}
+nav a{
+    color: indigo;
+    margin-right: 40px;
+    
+    text-decoration: none;
+    text-align: center;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.sidenav{
+    position: relative;left: 1250px;
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+    width: 60px;
+    
+}
+li{
+    background-color: darkgray;   
+    list-style-type: none;
+    text-align: center;
+}
+li a{
+    text-decoration: none;
+}
